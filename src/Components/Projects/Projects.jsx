@@ -61,7 +61,7 @@ const Projects = () => {
         Following are the models I’ve created, showcasing a range of skills from hard-surface modeling to texturing and rendering. My workflow includes tools like Autodesk Maya, Substance Painter, ZBrush, Blender, Mudbox, and Photoshop, allowing me to bring any concept to life — from idea to final render. 
       </motion.p>
       <div className='flex flex-wrap gap-7 mt-20'>
-        {/* <Tilt className='sm:w-[560px] w-full'>
+        <Tilt className='sm:w-[560px] w-full'>
           <motion.div variants={fadeIn("up", "spring", 0, 0.75)}
             className='pink-green-gradient p-[1px] rounded-2xl shadow-xl shadow-black' >
             <div className='p-5 w-full bg-[#ABB2BF] rounded-2xl'>
@@ -201,7 +201,7 @@ const Projects = () => {
               </div>
             </div>
           </motion.div>
-        </Tilt> */}
+        </Tilt>
        
       </div>
     </div >

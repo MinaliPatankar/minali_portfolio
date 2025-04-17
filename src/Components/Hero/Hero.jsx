@@ -19,7 +19,7 @@ const Hero = () => {
           
           <p className='description  mt-2 text-sm'>I’m a 3D Modeling & Texturing Artist and Video Editor <br /> with a keen eye for detail and a passion for visual storytelling.<br/> From realistic assets to cinematic edits, I craft immersive visuals that elevate any project.</p>
           <div className="buttons flex max-[1166px]:flex-col max-[1166px]:items-start mt-32 items-center gap-12 max-md:hidden">
-            {/* <a href="https://minalipatankar.github.io/3d-models/Minali_Resume.pdf"  target="_blank" rel="noopener noreferrer"><button className='text-2xl max-lg:text-xl border border-[#C778DD] p-4 rounded-xl hover:bg-[#C778DD]'>Download CV</button></a> */}
+            <a href="https://minalipatankar.github.io/3d-models/Minali_Resume.pdf"  target="_blank" rel="noopener noreferrer"><button className='text-2xl max-lg:text-xl border border-[#C778DD] p-4 rounded-xl hover:bg-[#C778DD]'>Download CV</button></a>
             <a href="https://www.linkedin.com/in/minali-patankar-a874b9214" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} size='2xl' beat className='max-[1166px]:mx-16 hover:text-[#C778DD] cursor-pointer' /></a>
             <a href="https://www.youtube.com/@3D_Models-products" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faYoutube} size='2xl' beat className='max-[1166px]:mx-16 hover:text-[#C778DD] cursor-pointer' /></a>
             </div>
