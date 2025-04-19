@@ -45,9 +45,9 @@ const Hero = () => {
 
           </div>
           <div className="mobile-buttons hidden max-md:flex absolute bottom-24 items-center gap-5 text-lg">
-          <a href="https://docs.google.com/document/d/1fP2MYeURAqu6YqmVbf8xaDfCchmjZbd6FQBU8UQ3nHc/edit?tab=t.0" target="_blank" rel="noopener noreferrer"><button className='border border-[#C778DD] p-2 rounded-lg hover:bg-[#C778DD]'>Download CV</button></a>
-            <a href="https://github.com/uditgour" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub} size='lg' beat className='rounded-full hover:text-[#C778DD]' /></a>
-            <a href="https://www.linkedin.com/in/udit-gour-3432621b7/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} size='lg' beat className='hover:text-[#C778DD] cursor-pointer' /></a>
+          <a href="https://minalipatankar.github.io/3d-models/Minali_Resume.pdf"  target="_blank" rel="noopener noreferrer"><button className='text-2xl max-lg:text-xl border border-[#C778DD] p-4 rounded-xl hover:bg-[#C778DD]'>Download CV</button></a>
+            <a href="https://www.linkedin.com/in/minali-patankar-a874b9214" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} size='2xl' beat className='max-[1166px]:mx-16 hover:text-[#C778DD] cursor-pointer' /></a>
+            <a href="https://www.youtube.com/@3D_Models-products" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faYoutube} size='2xl' beat className='max-[1166px]:mx-16 hover:text-[#C778DD] cursor-pointer' /></a>
           </div>
         </div>
         <div className="circle absolute rounded-full mt-12 lg:top-20 top-48 max-[380px]:w-56 max-[380px]:h-56 max-md:w-64 max-md:h-64 max-lg:w-80 max-lg:h-80 max-md:ml-6 max-lg:ml-60 lg:right-16 w-96 h-96 bg-cover bg-no-repeat"></div>
